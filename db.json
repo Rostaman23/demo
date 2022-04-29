@@ -1,6 +1,6 @@
-{
-    "post":[
-        {"NAME":"Betsy Head Field House",
+[
+        {
+            "NAME":"Betsy Head Field House",
 "RecreationCenter_Type":"Field House",
 "ADDRESS":"Livonia Ave between Hopkinson & Amboy streets",
 "CITY":"Brooklyn",
@@ -48,6 +48,7 @@
                 "ZIP":"11216",
                 "BOROUGH":null,
                 "PHONE":"(718) 622-2082"
-                }]
-}
+                }
+]
+
 
