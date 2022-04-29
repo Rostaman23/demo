@@ -1,4 +1,6 @@
-{"post":[{"NAME":"Betsy Head Field House",
+{
+  "post":[
+    {"NAME":"Betsy Head Field House",
 "RecreationCenter_Type":"Field House",
 "ADDRESS":"Livonia Ave between Hopkinson & Amboy streets",
 "CITY":"Brooklyn",
@@ -13,5 +15,5 @@
 "message":null,
 "cost_free":"0",
 "cost_description":"",
-"description":""},
-]} 
+"description":""},]
+} 
