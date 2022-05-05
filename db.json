@@ -1,55 +1,60 @@
 {
         "post":[
-        {
-            "NAME":"Betsy Head Field House",
-"RecreationCenter_Type":"Field House",
-"ADDRESS":"Livonia Ave between Hopkinson & Amboy streets",
-"CITY":"Brooklyn",
-"STATE":"NY",
-"ZIP":"11212",
-"BOROUGH":null,
-"PHONE":"(718) 257-1636"
-},
-{
-    "NAME":"McCarren Play Center",
-    "RecreationCenter_Type":"Recreation Center",
-    "ADDRESS":"776 Lorimer Street",
-    "CITY":"Brooklyn",
-    "STATE":"NY",
-    "ZIP":"11222",
-    "BOROUGH":null,
-    "PHONE":"(718) 218-2380"
-    },
-    {
-        "NAME":"Metropolitan Recreation Center",
-        "RecreationCenter_Type":"Recreation Center",
-        "ADDRESS":"261 Bedford Avenue",
-        "CITY":"Brooklyn",
-        "STATE":"NY",
-        "ZIP":"11211",
-        "BOROUGH":null,
-        "PHONE":"(718) 599-5707"
-        },
-        {
-            "NAME":"Sunset Park Recreation Center",
-            "RecreationCenter_Type":"Recreation Center",
-            "ADDRESS":"4200 7th Avenue",
-            "CITY":"Brooklyn",
-            "STATE":"NY",
-            "ZIP":"11232",
-            "BOROUGH":null,
-            "PHONE":"(718) 972-2135"
-           },
-            {
-                "NAME":"Herbert Von King Cultural Arts Center",
-                "RecreationCenter_Type":"Recreation Center",
-                "ADDRESS":"670 Lafayette Avenue",
-                "CITY":"Brooklyn",
-                "STATE":"NY",
-                "ZIP":"11216",
-                "BOROUGH":null,
-                "PHONE":"(718) 622-2082"
-                },
+  {
+    "id": 1,
+    "Region": "Передкарпатська нафтогазоносна область",
+    "Obl": "Iвано-Франкiвська",
+    "Rod": "Коломийське-Н",
+    "Kat": "B",
+    "Geo": "1593",
+    "Vud": "129",
+    "date": "19.04.94"
+    "map": "немає"
+  },
+  {
+    "id": 2,
+    "Region": "Передкарпатська нафтогазоносна область",
+    "Obl": "Iвано-Франкiвська",
+    "Rod": "Слобідське-Н",
+    "Kat": "А",
+    "Geo": "775",
+    "Vud": "3871",
+    "date": "21.09.93"
+    "map": "немає"
+  },
+  {
+    "id": 3,
+    "Region": "Передкарпатська нафтогазоносна область",
+    "Obl": "Iвано-Франкiвська",
+    "Rod": "Снятинське-ГН",
+    "Kat": "AВ",
+    "Geo": "726",
+    "Vud": "13245",
+    "date": "11.09.93"
+    "map": "немає"
+  },
+  {
+    "id": 4,
+    "Region": "Передкарпатська нафтогазоносна область",
+    "Obl": "Чернiвецька",
+    "Rod": "Лужанське-Н",
+    "Kat": "C2",
+    "Geo": "6169",
+    "Vud": "1814",
+    "date": "18.03.92"
+    "map": "немає"
+  },
+  {
+    "id": 5,
+    "Region": "Передкарпатська нафтогазоносна область",
+    "Obl": "Чернiвецька",
+    "Rod": "Хотинське-Н",
+    "Kat": "ABC1",
+    "Geo": "16844",
+    "Vud": "4897",
+    "date": "19.06.02"
+    "map": "немає"
+  },
 ]}
 
 
